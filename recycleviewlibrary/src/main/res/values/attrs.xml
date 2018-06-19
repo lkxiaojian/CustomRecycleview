@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleLoadingView"><attr format="color" name="progress_color"/></declare-styleable>
+</resources>
