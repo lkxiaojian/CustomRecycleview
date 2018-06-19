@@ -54,6 +54,9 @@ public class MainActivity extends AppCompatActivity {
                 yRecycleView.setloadMoreComplete();
             }
         });
+
+
+
     }
 
     private void initview() {
